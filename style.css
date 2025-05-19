@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 img {
     width: 590px;
@@ -24,3 +24,43 @@ body {
     text-align: center;
     font-size: 15px
 }
+
+#description {
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-family: Roboto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: orange;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block; 
+    color: #1a3785;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #dd5b39;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+  }
+
+
