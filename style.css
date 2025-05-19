@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+
+
+img {
+    width: 590px;
+    float: left;
+}
+
+#main {
+    width: 100%;
+}
+
+body {
+    margin: 0; 
+}
+
+#title {
+    text-align: center;
+    font-family: Fugaz One;
+    font-size: 30px;
+}
+
+#titletwo {
+    text-align: center;
+    font-size: 15px
+}
