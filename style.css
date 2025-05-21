@@ -12,6 +12,7 @@ img {
 
 body {
     margin: 0; 
+    position: relative; 
 }
 
 #title {
@@ -63,4 +64,11 @@ ul {
     background-color: #04AA6D;
   }
 
+#bottombar {
+    position: fixed;
+    bottom: 0;
+    height: 16px;
+    width: 100%;
+    background-color: orange; 
 
+}
