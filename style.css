@@ -81,7 +81,7 @@ body {
 }
 
 #coachid img {
-    width: 515px
+    width: 515px;
 }
 
 #coachtitle {
@@ -147,4 +147,195 @@ body {
     font-size: 20px;
     font-family: Fugaz One;
     margin-top: 50px;
+}
+
+#condonid {
+    width: 590px;
+}
+
+#condonid img {
+    width: 524px;
+}
+
+#condontitle {
+    font-family: Fugaz One;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+#condondescription {
+    margin-left: 535px;
+    font-size: 20px;
+}
+
+#condonaccolades {
+    margin-left: 535px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+#condonglaze {
+    text-align: center;
+    font-size: 20px;
+    font-family: Fugaz One;
+    margin-top: 50px;
+}
+
+
+#martinid {
+    width: 590px;
+}
+
+#martinid img {
+    width: 564px;
+}
+
+#martintitle {
+    font-family: Fugaz One;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+#martindescription {
+    margin-left: 575px;
+    font-size: 20px;
+}
+
+#martinaccolades {
+    margin-left: 575px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+#martinglaze {
+    text-align: center;
+    font-size: 20px;
+    font-family: Fugaz One;
+    margin-top: 50px;
+}
+
+#bottombarmartin {
+    position: fixed;
+    bottom: 0;
+    height: 65px;
+    width: 100%;
+    background-color: orange; 
+}
+
+#richardid {
+    width: 590px;
+}
+
+#richardid img {
+    width: 567px;
+}
+
+#richardtitle {
+    font-family: Fugaz One;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+#richarddescription {
+    margin-left: 575px;
+    font-size: 20px;
+}
+
+#richardaccolades {
+    margin-left: 575px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+#richardglaze {
+    text-align: center;
+    font-size: 20px;
+    font-family: Fugaz One;
+    margin-top: 50px;
+}
+
+#haughid {
+    width: 590px;
+}
+
+#haughid img {
+    width: 567px;
+}
+
+#haughtitle {
+    font-family: Fugaz One;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+#haughdescription {
+    margin-left: 575px;
+    font-size: 20px;
+}
+
+#haughaccolades {
+    margin-left: 575px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+#haughglaze {
+    text-align: center;
+    font-size: 20px;
+    font-family: Fugaz One;
+    margin-top: 50px;
+}
+
+#bottombarhaugh {
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: orange; 
+}
+
+
+#chinyeluid {
+    width: 590px;
+}
+
+#chinyeluid img {
+    width: 567px;
+}
+
+#chinyelutitle {
+    font-family: Fugaz One;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+#chinyeludescription {
+    margin-left: 575px;
+    font-size: 20px;
+}
+
+#chinyeluaccolades {
+    margin-left: 575px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+#chinyeluglaze {
+    text-align: center;
+    font-size: 20px;
+    font-family: Fugaz One;
+    margin-top: 50px;
+}
+
+#bottombarchinyelu {
+    position: fixed;
+    bottom: 0;
+    height: 49px;
+    width: 100%;
+    background-color: orange; 
 }
